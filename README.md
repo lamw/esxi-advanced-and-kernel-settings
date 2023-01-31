@@ -6,6 +6,7 @@ This repository contains a list of ESXi versions and their default advanced and 
 |-------------|-----------------------------------------|--------------------------------------|
 | ESXi 8.0a   | [1165](esxi-80a-advanced-settings.md)   | [295](esxi-80a-kernel-settings.md)   |
 | ESXi 8.0    | [1165](esxi-80-advanced-settings.md)    | [295](esxi-80-kernel-settings.md)    |
+| ESXi 7.0u3j | [1188](esxi-70u3j-advanced-settings.md) | [298](esxi-70u3j-kernel-settings.md) |
 | ESXi 7.0u3i | [1188](esxi-70u3i-advanced-settings.md) | [298](esxi-70u3i-kernel-settings.md) |
 | ESXi 7.0u3g | [1187](esxi-70u3g-advanced-settings.md) | [298](esxi-70u3g-kernel-settings.md) |
 | ESXi 7.0u3f | [1187](esxi-70u3f-advanced-settings.md) | [298](esxi-70u3f-kernel-settings.md) |
